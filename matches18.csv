@@ -1,0 +1,61 @@
+id,season,city,date,team1,team2,toss_winner,toss_decision,result,dl_applied,winner,win_by_runs,win_by_wickets,player_of_match,venue,umpire1,umpire2,umpire3
+7894,2018,Mumbai,7/4/2018,MI,CSK,CSK,field,normal,0,CSK,0,1,DJ Bravo,Wankhede Stadium,Chris Gaffaney,A Nanda Kishore,Anil Chaudhary
+7895,2018,Mohali,8/4/2018,DD,KXIP,KXIP,field,normal,0,KXIP,0,6,KL Rahul,"Punjab Cricket Association IS Bindra Stadium, Mohali",Rod Tucker,K Ananthapadmanabhan,Nitin Menon
+7896,2018,Kolkata,8/4/2018,RCB,KKR,KKR,field,normal,0,KKR,0,4,SP Narine,Eden Gardens,C Shamshuddin,A.D Deshmukh,S Ravi
+7897,2018,Hyderabad,9/4/2018,RR,SRH,SRH,field,normal,0,SRH,0,9,S Dhawan,"Rajiv Gandhi International Stadium, Uppal",Nigel Llong,Vineet Kulkarni,O Nandan
+7898,2018,Chennai,10/4/2018,KKR,CSK,CSK,field,normal,0,CSK,0,5,SW Billings,"MA Chidambaram Stadium, Chepauk",Anil Chaudhary,Chris Gaffaney,A Nanda Kishore
+7899,2018,Jaipur,11/4/2018,RR,DD,DD,field,normal,1,RR,10,0,SV Samson,Sawai Mansingh Stadium,K Ananthapadmanabhan,Rod Tucker,Nitin Menon
+7900,2018,Hyderabad,12/4/2018,MI,SRH,SRH,field,normal,0,SRH,0,1,Rashid Khan,"Rajiv Gandhi International Stadium, Uppal",O Nandan,Nigel Llong,Vineet Kulkarni
+7901,2018,Bengaluru,13/04/18,KXIP,RCB,RCB,field,normal,0,RCB,0,4,UT Yadav,M Chinnaswamy Stadium,S Ravi,A.D Deshmukh,C Shamshuddin
+7902,2018,Mumbai,14/04/18,MI,DD,DD,field,normal,0,DD,0,7,JJ Roy,Wankhede Stadium,K Ananthapadmanabhan,Nitin Menon,Rod Tucker
+7903,2018,Kolkata,14/04/18,KKR,SRH,SRH,field,normal,0,SRH,0,5,B Stanlake,Eden Gardens,A Nanda Kishore,Anil Chaudhary,Chris Gaffaney
+7904,2018,Bengaluru,15/04/18,RR,RCB,RCB,field,normal,0,RR,19,0,SV Samson,M Chinnaswamy Stadium,C Shamshuddin,S Ravi,A.D Deshmukh
+7905,2018,Mohali,15/04/18,KXIP,CSK,CSK,field,normal,0,KXIP,4,0,CH Gayle,"Punjab Cricket Association IS Bindra Stadium, Mohali",Vineet Kulkarni,O Nandan,Nigel Llong
+7906,2018,Kolkata,16/04/18,KKR,DD,DD,field,normal,0,KKR,71,0,N Rana,Eden Gardens,Anil Chaudhary,A Nanda Kishore,Chris Gaffaney
+7907,2018,Mumbai,17/04/18,MI,RCB,RCB,field,normal,0,MI,46,0,RG Sharma,Wankhede Stadium,Rod Tucker,Nitin Menon,K Ananthapadmanabhan
+7908,2018,Jaipur,18/04/18,RR,KKR,KKR,field,normal,0,KKR,0,7,N Rana,Sawai Mansingh Stadium,S Ravi,A.D Deshmukh,C Shamshuddin
+7909,2018,Mohali,19/04/18,KXIP,SRH,KXIP,bat,normal,0,KXIP,15,0,CH Gayle,"Punjab Cricket Association IS Bindra Stadium, Mohali",Nigel Llong,Anil Chaudhary,Vineet Kulkarni
+7910,2018,Pune,20/04/18,CSK,RR,RR,field,normal,0,CSK,64,0,SR Watson,Maharashtra Cricket Association Stadium,Nitin Menon,K Ananthapadmanabhan,Rod Tucker
+7911,2018,Kolkata,21/04/18,KKR,KXIP,KXIP,field,normal,1,KXIP,0,9,KL Rahul,Eden Gardens,C Shamshuddin,A.D Deshmukh,S Ravi
+7912,2018,Bengaluru,21/04/18,DD,RCB,RCB,field,normal,0,RCB,0,6,AB de Villiers,M Chinnaswamy Stadium,Chris Gaffaney,O Nandan,A Nanda Kishore
+7913,2018,Hyderabad,22/04/18,CSK,SRH,SRH,field,normal,0,CSK,4,0,AT Rayudu,"Rajiv Gandhi International Stadium, Uppal",Anil Chaudhary,Vineet Kulkarni,Nigel Llong
+7914,2018,Jaipur,22/04/18,MI,RR,MI,bat,normal,0,RR,0,3,J Archer,Sawai Mansingh Stadium,Rod Tucker,K Ananthapadmanabhan,Nitin Menon
+7915,2018,Delhi,23/04/18,KXIP,DD,DD,field,normal,0,KXIP,4,0,AS Rajpoot,Feroz Shah Kotla,O Nandan,A Nanda Kishore,Chris Gaffaney
+7916,2018,Mumbai,24/04/18,SRH,MI,MI,field,normal,0,SRH,31,0,Rashid Khan,Wankhede Stadium,C Shamshuddin,S Ravi,A.D Deshmukh
+7917,2018,Bengaluru,25/04/18,RCB,CSK,CSK,field,normal,0,CSK,0,5,MS Dhoni,M Chinnaswamy Stadium,Nigel Llong,Virender Kumar Sharma,Anil Chaudhary
+7918,2018,Hyderabad,26/04/18,SRH,KXIP,KXIP,field,normal,0,SRH,13,0,AS Rajpoot,"Rajiv Gandhi International Stadium, Uppal",O Nandan,Yeshwant Barde,Rod Tucker
+7919,2018,Delhi,27/04/18,DD,KKR,KKR,field,normal,0,DD,55,0,SS Iyer,Feroz Shah Kotla,C Shamshuddin,S Ravi,A Nanda Kishore
+7920,2018,Pune,28/04/18,CSK,MI,MI,field,normal,0,MI,0,8,RG Sharma,Maharashtra Cricket Association Stadium,Chris Gaffaney,Nitin Menon,Anil Dandekar
+7921,2018,Jaipur,29/04/18,SRH,RR,SRH,bat,normal,0,SRH,11,0,KS Williamson,Sawai Mansingh Stadium,Bruce Oxenford,A Nanda Kishore,S Ravi
+7922,2018,Bengaluru,29/04/18,RCB,KKR,KKR,field,normal,0,KKR,0,6,CA Lynn,M Chinnaswamy Stadium,Nigel Llong,Anil Chaudhary,Virender Kumar Sharma
+7923,2018,Pune,30/04/18,CSK,DD,DD,field,normal,0,CSK,13,0,SR Watson,Maharashtra Cricket Association Stadium,C Shamshuddin,Anil Dandekar,O Nandan
+7924,2018,Bengaluru,1/5/2018,RCB,MI,MI,field,normal,0,RCB,14,0,TG Southee,M Chinnaswamy Stadium,Marais Erasmus,Nitin Menon,Yeshwant Barde
+7925,2018,Delhi,2/5/2018,DD,RR,RR,field,normal,1,DD,4,0,RR Pant,Feroz Shah Kotla,O Nandan,Virender Kumar Sharma,Bruce Oxenford
+7926,2018,Kolkata,3/5/2018,CSK,KKR,KKR,field,normal,0,KKR,0,6,SP Narine,Eden Gardens,Kumar Dharmasena,A.D Deshmukh,Anil Chaudhary
+7927,2018,Indore,4/5/2018,KXIP,MI,MI,field,normal,0,MI,0,6,AS Yadav,Holkar Cricket Stadium,S Ravi,Anil Dandekar,C Shamshuddin
+7928,2018,Pune,5/5/2018,RCB,CSK,CSK,field,normal,0,CSK,0,6,RA Jadeja,Maharashtra Cricket Association Stadium,Nitin Menon,Yeshwant Barde,Marais Erasmus
+7929,2018,Hyderabad,5/5/2018,DD,SRH,DD,bat,normal,0,SRH,0,7,Rashid Khan,"Rajiv Gandhi International Stadium, Uppal",Bruce Oxenford,O Nandan,Virender Kumar Sharma
+7930,2018,Mumbai,6/5/2018,MI,KKR,KKR,field,normal,0,MI,13,0,HH Pandya,Wankhede Stadium,Kumar Dharmasena,A.D Deshmukh,Anil Chaudhary
+7931,2018,Indore,6/5/2018,RR,KXIP,KXIP,field,normal,0,KXIP,0,6,M Ur Rahman,Holkar Cricket Stadium,C Shamshuddin,S Ravi,Anil Dandekar
+7932,2018,Hyderabad,7/5/2018,SRH,RCB,RCB,field,normal,0,SRH,5,0,KS Williamson,"Rajiv Gandhi International Stadium, Uppal",Bruce Oxenford,Virender Kumar Sharma,O Nandan
+7933,2018,Jaipur,8/5/2018,RR,KXIP,RR,bat,normal,0,RR,15,0,JC Buttler,Sawai Mansingh Stadium,Marais Erasmus,Nitin Menon,Yeshwant Barde
+7934,2018,Kolkata,9/5/2018,MI,KKR,KKR,field,normal,0,MI,102,0,Ishan Kishan,Eden Gardens,Anil Chaudhary,K Ananthapadmanabhan,Kumar Dharmasena
+7935,2018,Delhi,10/5/2018,DD,SRH,DD,bat,normal,0,SRH,0,9,S Dhawan,Feroz Shah Kotla,C Shamshuddin,Anil Dandekar,S Ravi
+7936,2018,Jaipur,11/5/2018,CSK,RR,CSK,bat,normal,0,RR,0,4,JC Buttler,Sawai Mansingh Stadium,Marais Erasmus,Yeshwant Barde,Nitin Menon
+7937,2018,Indore,12/5/2018,KKR,KXIP,KXIP,field,normal,0,KKR,31,0,SP Narine,Holkar Cricket Stadium,O Nandan,Virender Kumar Sharma,Bruce Oxenford
+7938,2018,Delhi,12/5/2018,DD,RCB,RCB,field,normal,0,RCB,0,5,AB de Villiers,Feroz Shah Kotla,Kumar Dharmasena,Anil Chaudhary,K Ananthapadmanabhan
+7939,2018,Pune,13/05/18,SRH,CSK,CSK,field,normal,0,CSK,0,8,AT Rayudu,Maharashtra Cricket Association Stadium,Marais Erasmus,Yeshwant Barde,Anil Dandekar
+7940,2018,Mumbai,13/05/18,MI,RR,RR,field,normal,0,RR,0,7,JC Buttler,Wankhede Stadium,Nitin Menon,S Ravi,C Shamshuddin
+7941,2018,Indore,14/05/18,KXIP,RCB,RCB,field,normal,0,RCB,0,10,UT Yadav,Holkar Cricket Stadium,Bruce Oxenford,Virender Kumar Sharma,O Nandan
+7942,2018,Kolkata,15/05/18,RR,KKR,KKR,field,normal,0,KKR,0,6,Kuldeep Yadav,Eden Gardens,Kumar Dharmasena,Anil Chaudhary,Vineet Kulkarni
+7943,2018,Mumbai,16/05/18,MI,KXIP,KXIP,field,normal,0,MI,3,0,JJ Bumrah,Wankhede Stadium,Marais Erasmus,Nitin Menon,Yeshwant Barde
+7944,2018,Bengaluru,17/05/18,RCB,SRH,SRH,field,normal,0,RCB,14,0,AB de Villiers,M Chinnaswamy Stadium,S Ravi,Anil Dandekar,C Shamshuddin
+7945,2018,Delhi,18/05/18,DD,CSK,CSK,field,normal,0,DD,34,0,HV Patel,Feroz Shah Kotla,Kumar Dharmasena,Vineet Kulkarni,O Nandan
+7946,2018,Jaipur,19/05/18,RR,RCB,RR,bat,normal,0,RR,30,0,S Gopal,Sawai Mansingh Stadium,Bruce Oxenford,Virender Kumar Sharma,C Shamshuddin
+7947,2018,Hyderabad,19/05/18,SRH,KKR,SRH,bat,normal,0,KKR,0,5,CA Lynn,"Rajiv Gandhi International Stadium, Uppal",Anil Chaudhary,S Ravi,Anil Dandekar
+7948,2018,Delhi,20/05/18,DD,MI,DD,bat,normal,0,DD,11,0,A Mishra,Feroz Shah Kotla,Kumar Dharmasena,O Nandan,Vineet Kulkarni
+7949,2018,Pune,20/05/18,KXIP,CSK,CSK,field,normal,0,CSK,0,5,L Ngidi,Maharashtra Cricket Association Stadium,Nitin Menon,Yeshwant Barde,Marais Erasmus
+7950,2018,Mumbai,22/05/18,SRH,CSK,CSK,field,normal,0,CSK,0,2,F du Plessis,Wankhede Stadium,Marais Erasmus,C Shamshuddin,S Ravi
+7951,2018,Kolkata,23/05/18,KKR,RR,RR,field,normal,0,KKR,25,0,AD Russell,Eden Gardens,Nitin Menon,Anil Chaudhary,Kumar Dharmasena
+7952,2018,Kolkata,25/05/18,SRH,KKR,KKR,field,normal,0,SRH,14,0,Rashid Khan,Eden Gardens,Nitin Menon,Kumar Dharmasena,Anil Chaudhary
+7953,2018,Mumbai,27/05/18,SRH,CSK,CSK,field,normal,0,CSK,0,8,SR Watson,Wankhede Stadium,Marais Erasmus,S Ravi,Nitin Menon
